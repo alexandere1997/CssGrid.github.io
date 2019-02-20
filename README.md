@@ -1,3 +1,3 @@
 # CssGrid.github.io
-Griddddddddd
+colum
 https://alexandere1997.github.io/CssGrid.github.io/
